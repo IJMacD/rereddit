@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rereddit/static/css/main.c05c303e.css",
+    "main.js": "/rereddit/static/js/main.1e4f181c.js",
+    "index.html": "/rereddit/index.html",
+    "main.c05c303e.css.map": "/rereddit/static/css/main.c05c303e.css.map",
+    "main.1e4f181c.js.map": "/rereddit/static/js/main.1e4f181c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c05c303e.css",
+    "static/js/main.1e4f181c.js"
+  ]
+}
