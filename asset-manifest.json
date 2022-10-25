@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/rereddit/static/css/main.c05c303e.css",
-    "main.js": "/rereddit/static/js/main.1e4f181c.js",
+    "main.css": "/rereddit/static/css/main.6e0b60ec.css",
+    "main.js": "/rereddit/static/js/main.cdc2a7b8.js",
     "index.html": "/rereddit/index.html",
-    "main.c05c303e.css.map": "/rereddit/static/css/main.c05c303e.css.map",
-    "main.1e4f181c.js.map": "/rereddit/static/js/main.1e4f181c.js.map"
+    "main.6e0b60ec.css.map": "/rereddit/static/css/main.6e0b60ec.css.map",
+    "main.cdc2a7b8.js.map": "/rereddit/static/js/main.cdc2a7b8.js.map"
   },
   "entrypoints": [
-    "static/css/main.c05c303e.css",
-    "static/js/main.1e4f181c.js"
+    "static/css/main.6e0b60ec.css",
+    "static/js/main.cdc2a7b8.js"
   ]
 }
